@@ -70,6 +70,6 @@ Use `git push <remote> <branch>` to upload your changes
 - To create a branch, use `git checkout -b <branch_name>`
 - To browse branches, use `git branch <-r/-a>`
 - To delete a branch, use `git branch -d <branch_name>`
-- 
+
 ### Roll back a repository to a specific commit
 To roll back to a specific commit, use `git reset <commit_id>`
