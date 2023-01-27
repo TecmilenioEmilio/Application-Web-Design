@@ -61,8 +61,15 @@ Markdown is used to add formatting to plain text without the use of a formal tex
 ### Check the status of a local repository
 Use `git status`
 ### Add individual files or globally
+Use `git add (*/file_name)`
 ### Add comments to the commit
+Simply use `git commit` and you will be promted to add comments to your commit
 ### Upload your changes to the remote repository
+Use `git push <remote> <branch>` to upload your changes
 ### Create, browse, and delete branches
+- To create a branch, use `git checkout -b <branch_name>`
+- To browse branches, use `git branch <-r/-a>`
+- To delete a branch, use `git branch -d <branch_name>`
+- 
 ### Roll back a repository to a specific commit
-
+To roll back to a specific commit, use `git reset <commit_id>`
