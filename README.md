@@ -32,6 +32,7 @@ Markdown is used to add formatting to plain text without the use of a formal tex
 
 \###### Heading No 6
 
+<br />
 
 \*\*BOLD\*\*
 
@@ -39,8 +40,11 @@ Markdown is used to add formatting to plain text without the use of a formal tex
 
 \*\*\*BOLD AND ITALIC\*\*\*
 
+<br />
 
 \> Blockquotes
+
+<br />
 
 \1. First item in list
 
@@ -48,5 +52,6 @@ Markdown is used to add formatting to plain text without the use of a formal tex
 
 \3. Third item in list
 
+<br />
 
 \- Bullet point 
