@@ -55,3 +55,14 @@ Markdown is used to add formatting to plain text without the use of a formal tex
 <br />
 
 \- Bullet point 
+
+## Git commands
+
+### Check the status of a local repository
+Use `git status`
+### Add individual files or globally
+### Add comments to the commit
+### Upload your changes to the remote repository
+### Create, browse, and delete branches
+### Roll back a repository to a specific commit
+
